@@ -1,0 +1,20 @@
+﻿cl : 命令行 warning D9025: 正在重写“/sdl”(用“/GS-”)
+  大作业.cpp
+C:\Users\Rose\Desktop\大学\大二上\数据结构\大作业\大作业\FileHandle.h(1,1): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+C:\Users\Rose\Desktop\大学\大二上\数据结构\大作业\大作业\page.h(1,1): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+C:\Users\Rose\Desktop\大学\大二上\数据结构\大作业\大作业\code.h(1,1): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+C:\Users\Rose\Desktop\大学\大二上\数据结构\大作业\大作业\FileHandle.h(30,2): warning C4091: “typedef ”: 没有声明变量时忽略“WordList”的左侧
+C:\Users\Rose\Desktop\大学\大二上\数据结构\大作业\大作业\FileHandle.h(34,2): warning C4091: “typedef ”: 没有声明变量时忽略“Collection”的左侧
+C:\Users\Rose\Desktop\大学\大二上\数据结构\大作业\大作业\FileHandle.h(43,2): warning C4091: “typedef ”: 没有声明变量时忽略“Result”的左侧
+C:\Users\Rose\Desktop\大学\大二上\数据结构\大作业\大作业\FileHandle.h(50,2): warning C4091: “typedef ”: 没有声明变量时忽略“tempResult”的左侧
+C:\Users\Rose\Desktop\大学\大二上\数据结构\大作业\大作业\FileHandle.h(57,2): warning C4091: “typedef ”: 没有声明变量时忽略“Buffer”的左侧
+C:\Users\Rose\Desktop\大学\大二上\数据结构\大作业\大作业\FileHandle.h(140,23): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\Rose\Desktop\大学\大二上\数据结构\大作业\大作业\FileHandle.h(329,23): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\Rose\Desktop\大学\大二上\数据结构\大作业\大作业\FileHandle.h(335,31): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\Rose\Desktop\大学\大二上\数据结构\大作业\大作业\FileHandle.h(353,23): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\Rose\Desktop\大学\大二上\数据结构\大作业\大作业\FileHandle.h(359,31): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\Rose\Desktop\大学\大二上\数据结构\大作业\大作业\FileHandle.h(403,23): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\Rose\Desktop\大学\大二上\数据结构\大作业\大作业\FileHandle.h(460,23): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\Rose\Desktop\大学\大二上\数据结构\大作业\大作业\FileHandle.h(466,35): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\Rose\Desktop\大学\大二上\数据结构\大作业\大作业\FileHandle.h(477,50): warning C4018: “>=”: 有符号/无符号不匹配
+  大作业.vcxproj -> C:\Users\Rose\Desktop\大学\大二上\数据结构\大作业\大作业\Debug\大作业.exe
